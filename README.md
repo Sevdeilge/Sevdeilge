@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sade 👋
 
-<!--
-**Sevdeilge/Sevdeilge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Digital Forensics Engineering Student  
+🤖 Artificial Intelligence & Machine Learning  
+🔐 Cyber Security 
 
-Here are some ideas to get you started:
+I develop projects in areas where artificial intelligence can provide sustainable solutions with social impact, such as healthcare, education, accessibility, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+
+###  AI-Based IoMT Intrusion Detection System
+Machine learning based intrusion detection system designed for Internet of Medical Things environments.
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+
+## Connect With Me
+LinkedIn:
+https://www.linkedin.com/in/sevdeuysal/
