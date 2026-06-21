@@ -1,4 +1,4 @@
-# Hi, I'm Sade 👋
+# Hi, I'm Sevde 👋
 
 🎓 Digital Forensics Engineering Student  
 🤖 Artificial Intelligence & Machine Learning  
