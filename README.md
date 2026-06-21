@@ -10,7 +10,7 @@ I develop projects in areas where artificial intelligence can provide sustainabl
 <img src="https://diplo-media.s3.eu-central-1.amazonaws.com/2025/07/Agentic-AI-cybersecurity-Deloitte-SailPoint-AI-agents-1024x701.jpg" width="300">
 
 #### My Latest Project:
-###  AI-Based IoMT Intrusion Detection System
+###  ML-Based IoMT Intrusion Detection System
 Machine learning based intrusion detection system designed for Internet of Medical Things environments.
 
 
